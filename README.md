@@ -43,3 +43,5 @@
 ### https://github.com/Lauriethefish/QuestPatcher
 
 ### https://github.com/sc2ad/QuestLoader/
+
+### https://github.com/Sharpert/MonkeMapLoader
