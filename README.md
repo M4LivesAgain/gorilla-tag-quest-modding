@@ -12,10 +12,6 @@ here are the links to mostly all old gorilla tag qmods srcs.
 
 ## https://github.com/Uuketi/Where-Gravity-Go
 
-## https://github.com/Uuketi/Where-Gravity-Go
-
-## https://github.com/Uuketi/Where-Gravity-Go
-
 ## https://github.com/propadiling/MonkePaintBall
 
 ## https://github.com/gorlya/MonkeTrails
@@ -29,3 +25,11 @@ here are the links to mostly all old gorilla tag qmods srcs.
 ## https://github.com/christopherweinhardt/low-gravity-monke-mod
 
 ## https://github.com/BzzzThe18th/Goodbye-Moon-Monke
+
+## https://github.com/BzzzThe18th/Phrog-Monke
+
+## https://github.com/BzzzThe18th/Iron-Monke
+
+## https://github.com/BzzzThe18th/Iron-Monke
+
+## https://github.com/RedBrumbler/MagicMonki
