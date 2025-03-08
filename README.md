@@ -14,9 +14,13 @@
 
 ### https://github.com/propadiling/MonkePaintBall
 
+### https://github.com/Uuketii/Anti-Tag-Freeze-1
+
 ### https://github.com/gorlya/MonkeTrails
 
 ### https://github.com/RandomUser889/Hover-Monke
+
+### https://github.com/MellowFishy/Old-MonkeComputer-and-new - this is weird and i dont know what it is
 
 ### https://github.com/fchb1239/ScrewGravity
 
