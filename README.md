@@ -20,8 +20,6 @@
 
 ### https://github.com/RandomUser889/Hover-Monke
 
-### https://github.com/MellowFishy/Old-MonkeComputer-and-new - this is weird and i dont know what it is
-
 ### https://github.com/fchb1239/ScrewGravity
 
 ### https://github.com/RedBrumbler/MonkeComputer - deleted 😔
