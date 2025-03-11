@@ -1,6 +1,6 @@
 # "fixing gorilla tag one step at a time."
 
-## here are the links to mostly all old gorilla tag qmods srcs.
+## Most QMOD srcs below
 
 ### https://github.com/gorilla-quest-mod/monkey-bindings
 
@@ -22,8 +22,6 @@
 
 ### https://github.com/fchb1239/ScrewGravity
 
-### https://github.com/RedBrumbler/MonkeComputer - deleted 😔
-
 ### https://github.com/christopherweinhardt/low-gravity-monke-mod
 
 ### https://github.com/Dino12326/FlyingBanana
@@ -40,7 +38,15 @@
 
 ### https://github.com/Sharpert/MonkeMapLoader
 
-## here are the links to most quest loader/modding src things.
+## Most privated/deleted QMOD srcs below (RIP)
+
+### https://github.com/RedBrumbler/MonkeComputer - RedBrumbler please make this repo public, just archive it.
+
+### https://github.com/Christoffyw/FlyingBanana
+
+### https://github.com/RedBrumbler/MonkeCodegen
+
+## Most QMOD Loaders and misc below
 
 ### https://github.com/Lauriethefish/QuestPatcher.QMod
 
