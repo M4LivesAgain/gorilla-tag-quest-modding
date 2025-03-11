@@ -26,6 +26,8 @@
 
 ### https://github.com/christopherweinhardt/low-gravity-monke-mod
 
+### https://github.com/Dino12326/FlyingBanana
+
 ### https://github.com/BzzzThe18th/Goodbye-Moon-Monke
 
 ### https://github.com/BzzzThe18th/Phrog-Monke
