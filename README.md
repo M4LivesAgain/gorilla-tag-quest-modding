@@ -14,6 +14,16 @@
 
 ### https://github.com/Uuketi/Where-Gravity-Go
 
+### https://github.com/MyNameIsCanadian/MonkeLongArms
+
+### https://github.com/MyNameIsCanadian/MonkeGravity
+
+### https://github.com/MyNameIsCanadian/Monke-TagGun
+
+### https://github.com/MyNameIsCanadian/MonkeCosmetics
+
+### https://github.com/MyNameIsCanadian/Monke-TagGun
+
 ### https://github.com/MyNameIsCanadian/PlatformMonke
 
 ### https://github.com/propadiling/MonkePaintBall
@@ -26,9 +36,15 @@
 
 ### https://github.com/fchb1239/ScrewGravity
 
+### https://github.com/MyNameIsCanadian/Spidermonke
+
 ### https://github.com/christopherweinhardt/low-gravity-monke-mod
 
+### https://github.com/MyNameIsCanadian/BrokenController
+
 ### https://github.com/Dino12326/FlyingBanana
+
+### https://github.com/MyNameIsCanadian/MonkeMapLoader
 
 ### https://github.com/BzzzThe18th/Goodbye-Moon-Monke
 
@@ -36,9 +52,13 @@
 
 ### https://github.com/BzzzThe18th/Iron-Monke
 
+### https://github.com/MyNameIsCanadian/GripMonke
+
 ### https://github.com/RedBrumbler/MagicMonki
 
 ### https://github.com/Sharpert/MonkeMapLoader
+
+### https://github.com/MyNameIsCanadian/IronMonke
 
 ## Most privated/deleted QMOD srcs below (RIP)
 
