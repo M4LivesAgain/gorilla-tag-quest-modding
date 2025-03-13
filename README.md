@@ -2,8 +2,6 @@
 
 ## Most QMOD srcs below
 
-### https://github.com/gorilla-quest-mod/monkey-bindings
-
 ### https://github.com/AHauntedArmy/BrokenController-Quest
 
 ### https://github.com/RedBrumbler/GOOMPS
@@ -69,6 +67,8 @@
 ### https://github.com/RedBrumbler/MonkeCodegen
 
 ## Most QMOD Loaders and misc below
+
+### https://github.com/gorilla-quest-mod/monkey-bindings
 
 ### https://github.com/Lauriethefish/QuestPatcher.QMod
 
