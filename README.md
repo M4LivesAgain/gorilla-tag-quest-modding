@@ -8,7 +8,7 @@
 
 ### https://github.com/gorlya/QuestRisingLava
 
-### https://github.com/leonpeden/MonkeComputer - one of the only src of MonkeComputer, sadly this is 1 month off from the latest MonkeComputer and does not contain MonkeWatch
+### https://github.com/leonpeden/MonkeComputer
 
 ### https://github.com/Uuketi/Where-Gravity-Go
 
